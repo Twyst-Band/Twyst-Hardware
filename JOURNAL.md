@@ -28,3 +28,10 @@ Below, you can see the schematic, footprint and 3D models of the PCB.
 
   
 
+## 10/22/2025 - Added round Screen Display to the default module  
+
+My bandana system will be made out of 2 types of bandana, a main bandana and a secondary bandana. While the secondary only contains the schematics already added to this project, the main bandana also contains a few more modules, including a screen, a pulsoximeter and some other components. Today I added the screen.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDM0MywicHVyIjoiYmxvYl9pZCJ9fQ==--605c216d3c84c1ac59c661c4724b1752c9f33c34/image.png)
+  
+
