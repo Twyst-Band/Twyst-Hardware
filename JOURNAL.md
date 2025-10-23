@@ -35,3 +35,16 @@ My bandana system will be made out of 2 types of bandana, a main bandana and a s
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDM0MywicHVyIjoiYmxvYl9pZCJ9fQ==--605c216d3c84c1ac59c661c4724b1752c9f33c34/image.png)
   
 
+## 10/23/2025 - Added final 3D models  
+
+For today's journal, I made the final 2 advancements in my hardware development process. First, I tripple checked and ran the design rules checker for the electrical schema and footprint in Kicad to make sure everything is wired up correctly. Second, I made the 3D models for the bandanas!!!
+
+Here are some photos:
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDg4NCwicHVyIjoiYmxvYl9pZCJ9fQ==--0c9c3f0561459f54fe69b3c96bb3b6f421fc4088/image.png)
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDg4NSwicHVyIjoiYmxvYl9pZCJ9fQ==--7d727af5bc29e979042e8c6fec8a099f4c2f92fa/image.png)
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDg4NiwicHVyIjoiYmxvYl9pZCJ9fQ==--65d14b1edd891c5f69f7d72d9109ff826753d1c1/image.png)
+  
+
